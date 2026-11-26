@@ -1,0 +1,15 @@
+{
+    "model_name": "CrowdPulseCNN",
+    "task": "Crowd density map regression",
+    "framework": "PyTorch",
+    "input_channels": 3,
+    "input_width": 256,
+    "input_height": 192,
+    "output_channels": 1,
+    "output_width": 64,
+    "output_height": 48,
+    "trainable_parameters": 379297,
+    "activation": "Softplus",
+    "best_epoch": 20,
+    "best_validation_mae": 88.08905029296875
+}
