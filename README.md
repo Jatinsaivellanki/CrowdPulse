@@ -1,4 +1,5 @@
-# CrowdPulse — AI-Powered Crowd Density Monitoring
+<h1 align="center">CrowdPulse</h1>
+<p align="center"><strong>Real-time AI-powered crowd density monitoring and bottleneck alerts</strong></p>
 
 Academic engineering project demonstrating supervised CNN-based crowd density estimation (`CrowdPulseCNN`, trained on ShanghaiTech Part A & Part B).
 
